@@ -1,0 +1,2 @@
+# SearchEngine
+A Java Application created to understand concepts of concepts such as finding patterns using regular expressions,  translation of HTML to text, ranking web pages using sorting, heaps or other data structures,  finding keywords using string matching, use of inverted index,  analyzing frequencies of words using hash tables or search trees,  using large dictionaries/datasets, and many others. 
